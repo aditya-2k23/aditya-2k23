@@ -6,7 +6,7 @@
   - Instagram: https://www.instagram.com/aditya2005_notfound/
   - LinkedIn: https://www.linkedin.com/in/aditya-30b9b8281/
 ## Holopin Badges  
-[![@temaroon's Holopin board](https://holopin.io/api/user/board?user=temaroon)](https://holopin.io/@temaroon)
+[![An image of @temaroon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/temaroon)](https://holopin.io/@temaroon)
 
 <!---
 Temaroon/Temaroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
