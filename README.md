@@ -8,6 +8,8 @@
 ## Holopin Badges  
 [![An image of @temaroon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/temaroon)](https://holopin.io/@temaroon)
 
+## DevCard
+<a href="https://app.daily.dev/temaroon"><img src="https://api.daily.dev/devcards/v2/doEF1ufnfbnkiVoA2dRew.png?r=tv7&type=default" width="356" alt="Aditya's Dev Card"/></a>
 <!---
 Temaroon/Temaroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
