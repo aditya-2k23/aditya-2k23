@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya (@Temaroon)
 - 👀 I’m interested in Coding, Gaming, Music & Movies
-- 🌱 I’m currently learning Front End Web Development, Python, C
+- 🌱 I’m currently learning Front End Web Development, Python, C++
 - 📫 How to reach me | Social Links-
   - [Twitter](https://twitter.com/Tema_roon)
   - [Instagram](https://www.instagram.com/aditya.found/)
