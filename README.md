@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya (@Temaroon)
-- 👀 I’m interested in Coding, Gaming, Music & Movies
+- ✨ I’m interested in Coding, Gaming, Music & Movies
 - 🌱 I’m currently learning Web Development, Python, C, C++, DSA
 - 📫 How to reach me | Social Links-
   - [Twitter/X](https://twitter.com/Tema_roon)
