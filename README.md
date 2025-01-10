@@ -20,6 +20,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Node.js" height="50" /></a> -->
 </div>
 </td>
 
@@ -90,6 +93,10 @@
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=aditya-2k23&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=aditya-2k23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -99,11 +106,7 @@
 
 ## DevCard
 
-<a href="https://app.daily.dev/temaroon"><img src="https://api.daily.dev/devcards/v2/doEF1ufnfbnkiVoA2dRew.png?type=wide&r=nsw" width="652" alt="Aditya's Dev Card"/></a>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aditya-2k23&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://app.daily.dev/temaroon"><img src="https://api.daily.dev/devcards/v2/doEF1ufnfbnkiVoA2dRew.png?type=wide&r=nsw" width="430" alt="Aditya's Dev Card"/></a>
 
 ## 💰 You can help me by Donating
 
