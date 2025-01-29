@@ -29,16 +29,13 @@
 </td>
 
 <td valign="top" width="33%">
-
 <div align="center">
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-2k23&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-2k23&theme=dark&hide_border=true&border_radius=5&include_all_commits=true&count_private=true&layout=compact)
 </div>
-
 </td>
-
-</tr></table>
+</tr>
+</table>
 
 ## Contributions
 
@@ -101,15 +98,37 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=aditya-2k23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-2k23&theme=dark&hide_border=false)<br/>
+<table>
+  <tr>
+  <td>
+    
+![](https://github-readme-stats.vercel.app/api?username=aditya-2k23&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>    
+  </td>  
+  <td>
+    
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aditya-2k23&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats)
+  </td>
+  </tr>
+</table>
 
 <br/>
 
+<table>
+  <tr>
+    <td>
+      
 ## DevCard
 
 <a href="https://app.daily.dev/temaroon"><img src="https://api.daily.dev/devcards/v2/doEF1ufnfbnkiVoA2dRew.png?type=wide&r=nsw" width="430" alt="Aditya's Dev Card"/></a>
-
+    </td>
+    <td valign="top">
+    <div valign="center">
+    
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/temaroon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aditya2k23)
+    </div>
+    </td>
+  </tr>
+</table>
+
