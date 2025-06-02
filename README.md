@@ -115,7 +115,7 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       
 ## DevCard
 
@@ -124,13 +124,13 @@
     <td valign="top">
     <div valign="center">
     
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/temaroon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aditya2k23)
-
-[comment]: <> (## Add latest projects section)
+    
+## Roadmap Tracker
+[![roadmap.sh](https://roadmap.sh/card/tall/683997de7cc0cdc98969e695?variant=dark&roadmaps=data-analyst%2Cfull-stack%2Cbackend%2Cgit-github)](https://roadmap.sh)
     </div>
     </td>
   </tr>
 </table>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/temaroon)
 
