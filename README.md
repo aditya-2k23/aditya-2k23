@@ -90,6 +90,29 @@
 </a>
 </div>
 
+<br />
+
+<table>
+  <tr>
+    <td valign="top">
+
+### Leetcode  
+<a href="https://leetcode.com/u/aditya-2k23">
+  <img src="https://leetcard.jacoblin.cool/aditya-2k23?theme=dark&font=Plus%20Jakarta%20Sans&ext=heatmap" alt="Leetcode">
+</a>
+
+</td>
+<td valign="top">
+
+### Roadmap Tracker  
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/tall/683997de7cc0cdc98969e695?variant=dark&roadmaps=data-analyst%2Cfull-stack%2Cbackend%2Cgit-github" alt="roadmap.sh">
+</a>
+
+</td>
+  </tr>
+</table>
+
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -113,24 +136,4 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top">
-      
-## DevCard
-
-<a href="https://app.daily.dev/temaroon"><img src="https://api.daily.dev/devcards/v2/doEF1ufnfbnkiVoA2dRew.png?type=wide&r=nsw" width="430" alt="Aditya's Dev Card"/></a>
-    </td>
-    <td valign="top">
-    <div valign="center">
-    
-    
-## Roadmap Tracker
-[![roadmap.sh](https://roadmap.sh/card/tall/683997de7cc0cdc98969e695?variant=dark&roadmaps=data-analyst%2Cfull-stack%2Cbackend%2Cgit-github)](https://roadmap.sh)
-    </div>
-    </td>
-  </tr>
-</table>
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/temaroon)
-
