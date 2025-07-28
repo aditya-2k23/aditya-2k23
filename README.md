@@ -64,9 +64,6 @@
 <a href="https://linkedin.com/in/aditya-2k23" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/aditya.found" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23ee2a7c.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://stackoverflow.com/users//22153681/aditya" target="_blank">
 <img src=https://img.shields.io/badge/Stack-Overflow-%23F47F24.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white alt=stack_overflow style="margin-bottom: 5px;" />
 </a>
