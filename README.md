@@ -102,9 +102,8 @@
 <td valign="top">
 
 ### Roadmap Tracker  
-<a href="https://roadmap.sh">
-  <img src="https://roadmap.sh/card/tall/683997de7cc0cdc98969e695?variant=dark&roadmaps=data-analyst%2Cfull-stack%2Cbackend%2Cgit-github" alt="roadmap.sh">
-</a>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/683997de7cc0cdc98969e695?variant=dark&roadmaps=%2Cdatastructures-and-algorithms%2Cdocker%2Cfull-stack)](https://roadmap.sh)
 
 </td>
   </tr>
