@@ -2,6 +2,7 @@
 - ✨ I’m interested in Coding, Gaming, Music & Movies
 - 🌱 I’m currently learning `Web/Android Development`, `Python`, `C++`, `JavaScript`, `Java`, `DSA`, `Node.js`
 - 📫 How to reach me | [Social Links](#connect-with-me)
+- 📧 [Mail Me!](mailto:holaaditya123@gmail.com)
 
 ## My Skill Set
 
