@@ -6,9 +6,6 @@
 
 ## My Skill Set
 
-<table>
-<tr>
-<td valign="top" width="33%">
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="53" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
@@ -27,16 +24,6 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Node.js" height="50" /></a> -->
 </div>
-</td>
-
-<td valign="top" width="33%">
-<div align="center">
-  
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-2k23&theme=dark&hide_border=true&border_radius=5&include_all_commits=true&count_private=true&layout=compact)
-</div>
-</td>
-</tr>
-</table>
 
 ## Contributions
 
@@ -112,24 +99,11 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+### Boot.dev Profile
 
-![](https://github-profile-trophy.vercel.app/?username=aditya-2k23&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-## 📊 GitHub Stats:
-
-<table>
-  <tr>
-  <td>
-    
-![](https://github-readme-stats.vercel.app/api?username=aditya-2k23&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>    
-  </td>  
-  <td>
-    
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=aditya-2k23&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats)
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/0503fdf1-7268-431a-b587-1c4b8d5e1b31/thumbnail" >
+</p>
 
 <br/>
 
