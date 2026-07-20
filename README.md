@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya (@Temaroon)
 - ✨ I’m interested in Coding, Gaming, Music & Movies
-- 🌱 I’m currently learning `Web/Android Development`, `Python`, `C++`, `JavaScript`, `Java`, `DSA`, `Node.js`
+- 🌱 I’m currently learning `Web Development`, `Python`, `C++`, `JavaScript`, `DSA`, `Node.js`
 - 📫 How to reach me | [Social Links](#connect-with-me)
 - 📧 [Mail Me!](mailto:holaaditya123@gmail.com)
 
@@ -20,7 +20,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://devdocs.io/c/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://docs.oracle.com/en/java/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Node.js" height="50" /></a> -->
 </div>
